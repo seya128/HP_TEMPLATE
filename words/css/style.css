@@ -446,7 +446,7 @@ header .fh5co-navbar-brand {
   padding: 0;
 }
 header .fh5co-navbar-brand h1 {
-  width: 20%;
+  /* width: 20%; */
   display: block;
   font-family: "Playfair Display", Arial, serif;
   margin-bottom: 0;

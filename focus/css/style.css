@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(0, 0, 0, 0.8);
   font-family: "Roboto Slab", Arial, sans-serif;
   font-weight: 300;
-  margin: 0 0 30px 0;
+  margin: 0 0 10px 0;
 }
 
 ::-webkit-selection {
@@ -280,11 +280,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  padding: 3em 0;
+  padding: 0em 0;
 }
 @media screen and (max-width: 768px) {
   header {
-    padding: 2em 0;
+    padding: 0em 0;
   }
 }
 header .fh5co-navbar-brand {
@@ -439,8 +439,8 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
 }
 
 #fh5co-intro-section {
-  margin-bottom: 2em;
-  padding-bottom: 2em;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
 }
 
 .intro-heading {
